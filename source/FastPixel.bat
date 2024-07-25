@@ -1,0 +1,1 @@
+gcc -shared -o FastPixel.dll FastPixel.c -lopengl32 -lgdi32
